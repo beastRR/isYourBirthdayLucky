@@ -1,0 +1,27 @@
+div{
+    justify-content: center;
+}
+#div2{
+    font-family:Georgia;
+    font-weight:bolder;
+    color:darkcyan;
+    width:40%;
+    margin-left:35% ;
+    /* border:2px dotted greenyellow; */
+    text-align: left;
+    margin-top:5%;}
+
+#btn{
+    margin-top: 2%;
+    width: 10%;
+    background-color: lightblue;
+}
+#msg{
+    color:rgb(7, 98, 233);
+    font-family:sans-serif;
+    font-weight: bold;
+    margin-top:7%;
+    text-align: center;
+}
+
+  
