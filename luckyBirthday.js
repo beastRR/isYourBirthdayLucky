@@ -18,10 +18,12 @@ function check(){
 
     
     if(sum==0){
-    console.log("Congrats! your Birthday is Lucky");
-    document.querySelector("#msg").innerText="Congrats! your Birthday is Lucky";}
+    document.querySelector("#msg").innerText="Enter proper date";    
+    }
     else if(sum%luckyNumber==0){
-    document.querySelector("#msg").innerText="Enter proper date";}
+    console.log("Congrats! your Birthday is Lucky");
+    document.querySelector("#msg").innerText="Congrats! your Birthday is Lucky";    
+    }
 
     else{
     console.log("OOps your Birthday is Unlucky");
