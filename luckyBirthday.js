@@ -17,10 +17,10 @@ function check(){
     console.log(sum);
 
     
-    if(sum%luckyNumber==0){
+    if(sum==0){
     console.log("Congrats! your Birthday is Lucky");
     document.querySelector("#msg").innerText="Congrats! your Birthday is Lucky";}
-    else if(sum==0){
+    else if(sum%luckyNumber==0){
     document.querySelector("#msg").innerText="Enter proper date";}
 
     else{
