@@ -13,7 +13,7 @@ div{
 
 #btn{
     margin-top: 2%;
-    width: 10%;
+    width: fit-content;
     background-color: lightblue;
 }
 #msg{
