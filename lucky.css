@@ -15,14 +15,16 @@ div{
     margin-top: 2%;
     width: fit-content;
     background-color: lightblue;
+    padding:1.5rem;
 }
 #msg{
     color:rgb(7, 98, 233);
     font-family:sans-serif;
-    font-weight: bold;
+    font-weight: bolder;
+    font-family:cursive;
     margin-top:7%;
     text-align: center;
-    background-color:lightyellow;
+/*     background-color:lightyellow; */
 }
 input{
 height:4%;
@@ -32,5 +34,10 @@ background-color:lightyellow;
 
 body{
     background:yellowgreen;
+}
+
+img{
+    width:15%;
+    height:15%;
 }
   
