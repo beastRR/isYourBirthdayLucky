@@ -15,7 +15,7 @@ div{
     margin-top: 2%;
     width: fit-content;
     background-color: lightblue;
-    padding:1.5rem;
+    padding:0.5rem;
 }
 #msg{
     color:rgb(7, 98, 233);
@@ -34,10 +34,11 @@ background-color:lightyellow;
 
 body{
     background:yellowgreen;
+    height:100%;
 }
 
 img{
-    width:2%;
-    height:2%;
+    width:4%;
+    height:4%;
 }
   
